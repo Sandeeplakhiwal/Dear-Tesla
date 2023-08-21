@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  font-family: "Rubic", sans-serif;
+  color: #393c41;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+  height: 120vh;
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+  display: flex;
+  cursor: pointer;
+}
